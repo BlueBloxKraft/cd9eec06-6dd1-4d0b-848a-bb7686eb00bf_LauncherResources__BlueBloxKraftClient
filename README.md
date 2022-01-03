@@ -1,3 +1,2 @@
 # BlueBloxKraftClient
-hi 
-pls dont steal
+BlueBloxKraft Client files and libraries for BBKC Launcher
