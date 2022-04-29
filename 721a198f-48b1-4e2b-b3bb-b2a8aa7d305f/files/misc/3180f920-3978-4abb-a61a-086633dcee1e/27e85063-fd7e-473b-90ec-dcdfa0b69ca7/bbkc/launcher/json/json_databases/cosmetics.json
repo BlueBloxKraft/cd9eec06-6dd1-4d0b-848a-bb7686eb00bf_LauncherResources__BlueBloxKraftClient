@@ -3,19 +3,19 @@
 		"tophat": [
 			"BlueBloxKraft",
 			"xBBKzX08iscool",
-			"kew2v"
 		],
 		"hat" : [
 			"DK_Gaming366",
 			"xNotMercy"
 		],
-		"dragonwings": [
+		"dragon_wings": [
 			"BlueBloxKraft",
 			"xBBKzX08iscool",
 			"DK_Gaming366",
-			"kew2v"
+			"kew2v",
+			"xNotMercy"
 		],
-		"diamondsword": [
+		"diamond_sword": [
 			"BlueBloxKraft",
 			"xBBKzX08iscool",
 			"xNotMercy",
@@ -25,9 +25,10 @@
 		"halo": [
 			"BlueBloxKraft",
 			"xBBKzX08iscool",
-			"DK_Gaming366"
+			"DK_Gaming366",
+			"kew2v"
 		],
-		"googlyeyes": [
+		"googly_eyes": [
 			"BlueBloxKraft",
 			"xBBKzX08iscool"
 		],
@@ -45,5 +46,75 @@
 			"xNotMercy",
 			"kew2v"
 		]
+	},
+	"cosmetic_colors": {
+		"tophat": {
+			"BlueBloxKraft": [
+				"red": 0,
+				"green": 0,
+				"blue": 1
+			],
+			"xBBKzX08iscool": [
+				"red": 0,
+				"green": 0,
+				"blue": 1
+			]
+		},
+		"hat": {
+			"xNotMercy": [
+				"red": 0,
+				"green": 1,
+				"blue": 1
+			],
+			"DK_Gaming366": [
+				"red": 0,
+				"green": 1,
+				"blue": 0
+			]
+		},
+		"dragon_wings": {
+			"BlueBloxKraft": [
+				"red": 0,
+				"green": 0,
+				"blue": 1
+			],
+			"xBBKzX08iscool": [
+				"red": 0,
+				"green": 0,
+				"blue": 1
+			],
+			"xNotMercy": [
+				"red": 0,
+				"green": 1,
+				"blue": 1
+			],
+			"kew2v": [
+				"red": 1,
+				"green": 1,
+				"blue": 1
+			]
+		},
+		"halo": {
+			"BlueBloxKraft": [
+				"red": 0,
+				"green": 0,
+				"blue": 1
+			],
+			"xBBKzX08iscool": [
+				"red": 0,
+				"green": 0,
+				"blue": 1
+			],
+			"xNotMercy": [
+				"red": 0,
+				"green": 1,
+				"blue": 1
+			],
+			"kew2v": [
+				"red": 0,
+				"green": 0,
+				"blue": 0
+			]
+		}
 	}
 }
