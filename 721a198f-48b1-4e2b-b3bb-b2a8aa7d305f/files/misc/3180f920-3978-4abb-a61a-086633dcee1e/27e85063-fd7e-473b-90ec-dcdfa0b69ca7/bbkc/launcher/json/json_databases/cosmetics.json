@@ -50,70 +50,70 @@
 	"cosmetic_colors": {
 		"tophat": {
 			"BlueBloxKraft": [
-				"red": 0,
-				"green": 0,
-				"blue": 1
+				 0,
+				 0,
+				 1
 			],
 			"xBBKzX08iscool": [
-				"red": 0,
-				"green": 0,
-				"blue": 1
+				 0,
+				 0,
+				 1
 			]
 		},
 		"hat": {
 			"xNotMercy": [
-				"red": 0,
-				"green": 1,
-				"blue": 1
+				 0,
+				 1,
+				 1
 			],
 			"DK_Gaming366": [
-				"red": 0,
-				"green": 1,
-				"blue": 0
+				 0,
+				 1,
+				 0
 			]
 		},
 		"dragon_wings": {
 			"BlueBloxKraft": [
-				"red": 0,
-				"green": 0,
-				"blue": 1
+				 0,
+				 0,
+				 1
 			],
 			"xBBKzX08iscool": [
-				"red": 0,
-				"green": 0,
-				"blue": 1
+				 0,
+				 0,
+				 1
 			],
 			"xNotMercy": [
-				"red": 0,
-				"green": 1,
-				"blue": 1
+				 0,
+				 1,
+				 1
 			],
 			"kew2v": [
-				"red": 1,
-				"green": 1,
-				"blue": 1
+				 1,
+				 1,
+				 1
 			]
 		},
 		"halo": {
 			"BlueBloxKraft": [
-				"red": 0,
-				"green": 0,
-				"blue": 1
+				 0,
+				 0,
+				 1
 			],
 			"xBBKzX08iscool": [
-				"red": 0,
-				"green": 0,
-				"blue": 1
+				 0,
+				 0,
+				 1
 			],
 			"xNotMercy": [
-				"red": 0,
-				"green": 1,
-				"blue": 1
+				 0,
+				 1,
+				 1
 			],
 			"kew2v": [
-				"red": 0,
-				"green": 0,
-				"blue": 0
+				 0,
+				 0,
+				 0
 			]
 		}
 	}
