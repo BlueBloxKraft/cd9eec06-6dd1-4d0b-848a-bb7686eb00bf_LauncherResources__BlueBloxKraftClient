@@ -4,10 +4,12 @@
 			"BlueBloxKraft",
 			"xBBKzX08iscool",
 		],
+		
 		"hat" : [
 			"DK_Gaming366",
 			"xNotMercy"
 		],
+		
 		"dragon_wings": [
 			"BlueBloxKraft",
 			"xBBKzX08iscool",
@@ -15,6 +17,7 @@
 			"kew2v",
 			"xNotMercy"
 		],
+		
 		"diamond_sword": [
 			"BlueBloxKraft",
 			"xBBKzX08iscool",
@@ -22,16 +25,19 @@
 			"DK_Gaming366",
 			"kew2v"
 		],
+		
 		"halo": [
 			"BlueBloxKraft",
 			"xBBKzX08iscool",
 			"DK_Gaming366",
 			"kew2v"
 		],
+		
 		"googly_eyes": [
 			"BlueBloxKraft",
 			"xBBKzX08iscool"
 		],
+		
 		"cape": [
 			"xBBKzX08iscool",
 			"BlueBloxKraft",
@@ -39,6 +45,7 @@
 			"xNotMercy",
 			"kew2v"
 		],
+		
 		"dog": [
 			"xBBKzX08iscool",
 			"BlueBloxKraft",
@@ -46,6 +53,7 @@
 			"xNotMercy",
 			"kew2v"
 		],
+		
 		"sunglasses": [
 			"xBBKzX08iscool",
 			"BlueBloxKraft",
@@ -56,72 +64,28 @@
 	},
 	"cosmetic_colors": {
 		"tophat": {
-			"BlueBloxKraft": [
-				 0,
-				 0,
-				 1
-			],
-			"xBBKzX08iscool": [
-				 0,
-				 0,
-				 1
-			]
+			"BlueBloxKraft": [0, 0, 1],
+			"xBBKzX08iscool": [0, 0, 1]
 		},
+		
 		"hat": {
-			"xNotMercy": [
-				 0,
-				 1,
-				 1
-			],
-			"DK_Gaming366": [
-				 0,
-				 1,
-				 0
-			]
+			"xNotMercy": [0, 1, 1],
+			"DK_Gaming366": [0, 1, 0]
 		},
+		
 		"dragon_wings": {
-			"BlueBloxKraft": [
-				 0,
-				 0,
-				 1
-			],
-			"xBBKzX08iscool": [
-				 0,
-				 0,
-				 1
-			],
-			"xNotMercy": [
-				 0,
-				 1,
-				 1
-			],
-			"kew2v": [
-				 1,
-				 1,
-				 1
-			]
+			"BlueBloxKraft": [0, 0, 1],
+			"xBBKzX08iscool": [0, 0, 1],
+			"xNotMercy": [0, 1, 1],
+			"kew2v": [1, 1, 1]
 		},
+		
 		"halo": {
-			"BlueBloxKraft": [
-				 0,
-				 0,
-				 1
-			],
-			"xBBKzX08iscool": [
-				 0,
-				 0,
-				 1
-			],
-			"xNotMercy": [
-				 0,
-				 1,
-				 1
-			],
-			"kew2v": [
-				 0,
-				 0,
-				 0
-			]
+			"BlueBloxKraft": [0, 0, 1],
+			"xBBKzX08iscool": [0, 0, 1],
+			"xNotMercy": [0, 1, 1],
+			"kew2v": [0, 0, 0]
 		}
 	}
+	
 }
