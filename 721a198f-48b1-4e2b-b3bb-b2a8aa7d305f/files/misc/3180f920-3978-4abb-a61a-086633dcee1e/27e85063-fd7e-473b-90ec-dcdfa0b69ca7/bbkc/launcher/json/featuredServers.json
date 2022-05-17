@@ -1,0 +1,18 @@
+{
+	"servers": [
+		{
+			"addr": "BlueBloxKraft.aternos.me:14490",
+			"name": "BlueBloxKraft Network"
+		},
+		{
+			"addr": "BlueBloxKraftSMP.aternos.me:17356",
+			"name": "BlueBloxKraft's SMP"
+		}
+	]
+	
+	"stuff": {
+		"prefix": "§b",
+		"suffix": "§7(§6Featured!§7)"
+	}
+	
+}
